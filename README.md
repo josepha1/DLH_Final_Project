@@ -1,2 +1,11 @@
 # DLH_Final_Project
-Repository for CS598 DLH Final Project
+##Contextual Embeddings from Clinical Notes Improves Prediction of Sepsis
+
+##Authors:
+
+* Joseph Allen(jaallen2@illinois.edu)
+* Sonal Sharma(sonals3@illinois.edu)
+
+
+
+
